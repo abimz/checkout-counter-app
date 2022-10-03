@@ -37,15 +37,15 @@ button {
     border-radius: 5px;
 }
 
-#increment-btn {
+#addItem-btn {
     background: darkred;
 }
 
-#save-btn {
+#checkout-btn {
     background: darkgreen;
 }
 
-#save-el {
+#checkout-el {
     font-weight: bold;
 }
 
